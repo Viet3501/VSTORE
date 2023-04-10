@@ -1,0 +1,492 @@
+{
+  "data": [
+    {
+      "image": "blob:http://localhost:3002/adbdd736-01a2-44c6-aa24-01dd4e0eef40",
+      "title": "chỉnh sửa",
+      "description": "BST giày Adidas DIY gồm 5 mẫu giày chính thuộc hai dòng Authentic và SK8-Hi. Điểm khác biệt nổi bật ở đây là những mẫu giày này được trang bị thêm những đường chỉ đỏ thật bắt mắt ở những vị trí nổi bật trên thân giày.",
+      "category": 3,
+      "originalPrice": 2000000,
+      "promotionPercent": 10,
+      "salePrice": 1800000,
+      "rating": {
+        "rate": 5,
+        "count": 100
+      },
+      "color": "trắng",
+      "size": 38,
+      "id": 22
+    },
+    {
+      "image": "blob:http://localhost:3002/401ab258-0783-4341-a854-3ccf8d350c39",
+      "title": "Giày Sneaker Adidas Stansmith Vintage",
+      "description": "Phiên bản pro nâng cấp của bản Giày Adidas old skool này được thiết kế với bộ đệm bên trong giày vô cùng êm ái, những miếng gia cố ở những vị trí quan trọng và đệm cao su Duracap để hỗ trợ cho mọi hoạt động của bạn.",
+      "category": 3,
+      "originalPrice": 1800000,
+      "promotionPercent": 16,
+      "salePrice": 1512000,
+      "rating": {
+        "rate": 5,
+        "count": 100
+      },
+      "color": "trắng",
+      "size": 37,
+      "id": 23
+    },
+    {
+      "id": 24,
+      "title": "Giày Sneaker Nam Adidas ZX 2K 4D FW2002",
+      "description": "Adidas 1970s là 1 trong những dòng sản phẩm bán chạy nhất của Adidas. Enamel Red là một trong những phối màu hot nhất của dòng Adidas 1970s, rất đẹp và dễ phối đồ, đồng thời có 2 bản là cao cổ và thấp cổ",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/zx-2k-4d-shoes-white-fw2002-01-standard.jpg?v=1627036668920",
+      "originalPrice": 2400000,
+      "salePrice": 1800000,
+      "isPromotion": true,
+      "promotionPercent": 25,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.9,
+        "count": 12
+      },
+      "color": "trắng",
+      "size": 36,
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "title": "Giày Sneaker Adidas Ultraboost 22 Wonder Mauve",
+      "description": "Adidas Check Bess Ni với thiết kế khỏe khoắn, sự thoải mái của lót Ultra Cush cùng màu sắc trẻ trung mang lại cho khách hàng sự lựa chọn tuyệt vời. Adidas Check Bess Ni với chất liệu là sự kết hợp của vải & da lộn nhưng với lót Ultra Cush mà mức giá như vậy thì thật sự rất hợp lý cho người mua hàng",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/gx5592-01-1657878359376.png?v=1658298694540",
+      "originalPrice": 1500000,
+      "salePrice": 1275000,
+      "isPromotion": false,
+      "promotionPercent": 15,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.7,
+        "count": 105
+      },
+      "color": "hồng",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "title": "Giày Sneaker Adidas Duramo 10 White Grey",
+      "description": "Kiểu dáng Old Skool quen thuộc kết hợp thiết kế trẻ trung, năng động cùng họa tiết I HEART MY Adidas lạ mắt nổi lên 2 bên thân giày, mang đến sự đặc biệt cho sản phẩm. Ngoài ra, đường viền xung quanh đế giày được thay bằng màu xanh đồng bộ với họa tiết chữ.",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/gx0713-01-1658634886743.png?v=1658634891620",
+      "originalPrice": 3200000,
+      "salePrice": 2560000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 5,
+        "count": 110
+      },
+      "color": "trắng",
+      "size": 36,
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "title": "Giày Sneaker Adidas Duramo 10 Black White",
+      "description": "Để nói về một sản phẩm vừa đơn giản, vừa thanh lịch, vừa chất lượng và cực kỳ dễ sử dụng, phù hợp với nhiều hoàn cảnh, độ tuổi và các phong cách thời trang khác nhau, không thể nào không nhắc tới dòng sản phẩm giày Adidas Classic được. Dòng sản phẩm này được những tín đồ thời trang trên khắp thế giới đánh giá là must-have item đáng sở hữu nhất mọi thời đại. ",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/gx8708-01-1658635033645.png?v=1658635038187",
+      "originalPrice": 3000000,
+      "salePrice": 2250000,
+      "isPromotion": false,
+      "promotionPercent": 25,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.8,
+        "count": 12
+      },
+      "color": "trắng",
+      "size": 39,
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "title": "Giày Adidas Old Skool Navy White",
+      "description": "Với chất liệu da lộn mài mix vải, cùng với phối màu đen - xanh navy: màu sắc của đồng phục, cực kì basic. Rất hợp để mang đến trường, cùng bạn qua những ngày thanh xuân vườn trường. Hay kết hợp với tee, chân váy bò siêu năng động.",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/9912c43c-6f21-47fb-90d5-fe42f65e7e13.jpg?v=1652601344427",
+      "originalPrice": 2640000,
+      "salePrice": 2244000,
+      "isPromotion": true,
+      "promotionPercent": 15,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 5,
+        "count": 120
+      },
+      "color": "trắng",
+      "size": 37,
+      "quantity": 1
+    },
+    {
+      "id": 29,
+      "title": "Giày sneaker Adidas X9000 Karlie Kloss",
+      "description": "Giày sneaker Adidas X9000 Karlie Kloss là sản phẩm bán chạy, chất lượng nhất của Adidas, luôn cháy hàng ngay sau khi lên kệ. Với chất liệu da lộn mài mix vải, cùng với phối màu đen - trắng siêu dễ phối dù là vest lịch lãm, váy bánh bèo hay sexy cho đến những bộ đồng phục nghiêm túc, ... đều giúp bạn nổi bật hơn hết.",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/44f529a3-8697-4ddb-b571-3f4ea9f2f262.jpg?v=1652600779927",
+      "originalPrice": 1750000,
+      "salePrice": 1400000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 10
+      },
+      "color": "trắng",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "title": "Giày Sneaker Adidas 4D FWD Pulse Hazy Rose",
+      "description": "Thiết kế Adidas Old Skook quen thuộc với đường lượn sóng trắng 2 bên thân giày. Nay sản phẩm được biến tấu lạ mắt hơn với tone xanh navy tươi trẻ, năng động. Đế giày được làm từ chất liệu cao su cao cấp với họa tiết chữ OFF THE WALL được cách điệu ở sau đế giày giúp item càng trở nên lạ mắt và nổi bật hơn.",
+      "category": 3,
+      "image": "https://bizweb.dktcdn.net/100/413/756/products/691f6c6d-1255-45f7-a40d-59693a0b442d.jpg?v=1651744514657",
+      "originalPrice": 1900000,
+      "salePrice": 1520000,
+      "isPromotion": false,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 5,
+        "count": 120
+      },
+      "color": "hồng",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "title": "Giày Slipstream Men's Sneakers",
+      "description": "Nhắc đến tên dòng sản phẩm này - giày Puma classic đã đủ để thấy được sự basic của nó. Và BST Chuck Taylor All Star Classic đã chứng tỏ được vị thế của những đôi giày chất lượng - đơn giản - giá cả phải chăng của mình khi nó lọt top những sản phẩm đáng sở hữu nhất mà ai cũng nên có một đôi",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/388549/01/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 1850000,
+      "salePrice": 1387500,
+      "isPromotion": true,
+      "promotionPercent": 25,
+      "isFreeShip": false,
+      "rating": {
+        "rate": 5,
+        "count": 120
+      },
+      "color": "trắng",
+      "size": 36,
+      "quantity": 1
+    },
+    {
+      "id": 33,
+      "title": "Giày Slipstream Lo Retro Men's Sneakers",
+      "description": "Phiên bản pro nâng cấp của bản Giày Puma old skool này được thiết kế với bộ đệm bên trong giày vô cùng êm ái, những miếng gia cố ở những vị trí quan trọng và đệm cao su Duracap để hỗ trợ cho mọi hoạt động của bạn.",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/384692/02/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 1800000,
+      "salePrice": 1620000,
+      "isPromotion": true,
+      "promotionPercent": 10,
+      "isFreeShip": false,
+      "rating": {
+        "rate": 4.7,
+        "count": 121
+      },
+      "color": "xanh",
+      "size": 39,
+      "quantity": 1
+    },
+    {
+      "id": 34,
+      "title": "Giày Cali Women's Sneakers",
+      "description": "Puma 1970s là 1 trong những dòng sản phẩm bán chạy nhất của Puma. Enamel Red là một trong những phối màu hot nhất của dòng Puma 1970s, rất đẹp và dễ phối đồ, đồng thời có 2 bản là cao cổ và thấp cổ",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/369155/04/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 2400000,
+      "salePrice": 1800000,
+      "isPromotion": true,
+      "promotionPercent": 25,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.9,
+        "count": 12
+      },
+      "color": "trắng",
+      "size": 37,
+      "quantity": 1
+    },
+    {
+      "id": 35,
+      "title": "Giày Cali Women's Sneakers Wonder Mauve",
+      "description": "Puma Check Bess Ni với thiết kế khỏe khoắn, sự thoải mái của lót Ultra Cush cùng màu sắc trẻ trung mang lại cho khách hàng sự lựa chọn tuyệt vời. Puma Check Bess Ni với chất liệu là sự kết hợp của vải & da lộn nhưng với lót Ultra Cush mà mức giá như vậy thì thật sự rất hợp lý cho người mua hàng",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/369155/13/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 1500000,
+      "salePrice": 1275000,
+      "isPromotion": false,
+      "promotionPercent": 15,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.7,
+        "count": 105
+      },
+      "color": "hồng",
+      "size": 37,
+      "quantity": 1
+    },
+    {
+      "id": 36,
+      "title": "Giày Suede Classic XXI Sneakers JR",
+      "description": "Kiểu dáng Old Skool quen thuộc kết hợp thiết kế trẻ trung, năng động cùng họa tiết I HEART MY Puma lạ mắt nổi lên 2 bên thân giày, mang đến sự đặc biệt cho sản phẩm. Ngoài ra, đường viền xung quanh đế giày được thay bằng màu xanh đồng bộ với họa tiết chữ.",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/380560/01/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 3200000,
+      "salePrice": 2560000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 5,
+        "count": 110
+      },
+      "color": "đen",
+      "size": 37,
+      "quantity": 1
+    },
+    {
+      "id": 37,
+      "title": "Giày Suede Classic XXI Sneakers JR",
+      "description": "Để nói về một sản phẩm vừa đơn giản, vừa thanh lịch, vừa chất lượng và cực kỳ dễ sử dụng, phù hợp với nhiều hoàn cảnh, độ tuổi và các phong cách thời trang khác nhau, không thể nào không nhắc tới dòng sản phẩm giày Puma Classic được. Dòng sản phẩm này được những tín đồ thời trang trên khắp thế giới đánh giá là must-have item đáng sở hữu nhất mọi thời đại. ",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/380560/05/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 3100000,
+      "salePrice": 2170000,
+      "isPromotion": false,
+      "promotionPercent": 30,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.8,
+        "count": 12
+      },
+      "color": "hồng",
+      "size": 36,
+      "quantity": 1
+    },
+    {
+      "id": 38,
+      "title": "Giày Suede Classic Sneakers ",
+      "description": "Với chất liệu da lộn mài mix vải, cùng với phối màu đen - xanh navy: màu sắc của đồng phục, cực kì basic. Rất hợp để mang đến trường, cùng bạn qua những ngày thanh xuân vườn trường. Hay kết hợp với tee, chân váy bò siêu năng động.",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/380560/03/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 2640000,
+      "salePrice": 2244000,
+      "isPromotion": true,
+      "promotionPercent": 15,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 5,
+        "count": 120
+      },
+      "color": "đen",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 39,
+      "title": "Cali Women's Sneakers Karlie Kloss",
+      "description": "Giày Puma X9000 Karlie Kloss là sản phẩm bán chạy, chất lượng nhất của Puma, luôn cháy hàng ngay sau khi lên kệ. Với chất liệu da lộn mài mix vải, cùng với phối màu đen - trắng siêu dễ phối dù là vest lịch lãm, váy bánh bèo hay sexy cho đến những bộ đồng phục nghiêm túc, ... đều giúp bạn nổi bật hơn hết.",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/369155/01/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 1550000,
+      "salePrice": 1200000,
+      "isPromotion": true,
+      "promotionPercent": 25,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 10
+      },
+      "color": "trắng",
+      "size": 36,
+      "quantity": 1
+    },
+    {
+      "id": 40,
+      "title": "Giày Cali Women's Sneakers Hazy Rose",
+      "description": "Thiết kế Puma quen thuộc với đường lượn sóng trắng 2 bên thân giày. Nay sản phẩm được biến tấu lạ mắt hơn với tone xanh navy tươi trẻ, năng động. Đế giày được làm từ chất liệu cao su cao cấp với họa tiết chữ OFF THE WALL được cách điệu ở sau đế giày giúp item càng trở nên lạ mắt và nổi bật hơn.",
+      "category": 4,
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/369155/04/sv01/fnd/PNA/fmt/png",
+      "originalPrice": 1750000,
+      "salePrice": 1400000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 36,
+      "quantity": 1
+    },
+    {
+      "id": 41,
+      "title": "Giày MLB NY Chunky High Shoes",
+      "description": "Thương hiệu MLB thuộc tập đoàn F&F đã mở cửa hàng MLB Korea đầu tiên vào năm 1997. Thương hiệu chuyên thiết kế và sản xuất trang phục, giày & phụ kiện cho nam, nữ lấy cảm hứng từ logo của những đội bóng chày danh tiếng.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202201/4307ec6b8a11a1fe4d1bb4865f042fd3.jpg",
+      "originalPrice": 1750000,
+      "salePrice": 1400000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 42,
+      "title": "Giày MLB NY Vintage Hazy Rose",
+      "description": "Thương hiệu chuyên thiết kế và sản xuất trang phục, giày & phụ kiện cho nam, nữ lấy cảm hứng từ logo của những đội bóng chày danh tiếng đem đến những bộ sưu tập kết hợp giữa tiện ích và thời trang.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202201/22577ddf36f37ff6b96f7b8aabb01077.jpg",
+      "originalPrice": 1050000,
+      "salePrice": 840000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 39,
+      "quantity": 1
+    },
+    {
+      "id": 43,
+      "title": "Giày MLB Chunky Liner New York",
+      "description": "MLB Korea đầu tiên vào năm 1997. Thương hiệu chuyên thiết kế và sản xuất trang phục, giày & phụ kiện cho nam, nữ lấy cảm hứng từ logo của những đội bóng chày danh tiếng đem đến những bộ sưu tập kết hợp giữa tiện ích và thời trang.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202201/51afbaf684e362b016942e7baf9bb9d6.jpg",
+      "originalPrice": 1600000,
+      "salePrice": 1280000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": false,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 44,
+      "title": "Giày MLB Playball Mule Dia Monogram",
+      "description": "MLB là thương hiệu dép tông số 1 thế giới đến từ Brazil, với hơn 220 triệu đôi dép được bán ra mỗi năm và đã có mặt hơn 80 quốc gia trên thê giới. MLB là hiện thân đầy màu sắc của một nền văn hóa Brazil sống động.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202108/b017bc7c2cee3897f73da272fffecc82.jpg",
+      "originalPrice": 1200000,
+      "salePrice": 876000,
+      "isPromotion": false,
+      "promotionPercent": 27,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 37,
+      "quantity": 1
+    },
+    {
+      "id": 45,
+      "title": "Giày MLB Playball Mule Dia Monogram",
+      "description": "Sự kết hợp thông minh giữa tính cách Canada phóng khoáng cùng với yếu tố tinh tế, chi tiết trong từng kỹ thuật may của Ý đã làm nên sự thành công vượt trội của MLB. Có lẽ chính điều này đã tạo ra sự sáng tạo, độc đáo trong từng bộ trang phục thời trang của MLB.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202112/58c2645bdc72e51726c57e29e954d156.jpg",
+      "originalPrice": 1000000,
+      "salePrice": 760000,
+      "isPromotion": true,
+      "promotionPercent": 24,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 37,
+      "quantity": 1
+    },
+    {
+      "id": 47,
+      "title": "Giày MLB Bigball Chunky Mono Heel Boston",
+      "description": "Thiết kế MLB sở hữu những phong cách đa dạng và độc đáo, đậm chất thủ công gia truyền lâu đời của người Ý, nhưng vẫn pha trộn chút hài hòa về trong phong cách và đường nét, thương hiệu này hướng tới những quý cô yêu thích những trải nghiệm mới lạ cùng với thời trang.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202107/f867a14c10e65076a4a54378fdf11a75.jpg",
+      "originalPrice": 1950000,
+      "salePrice": 16185000,
+      "isPromotion": true,
+      "promotionPercent": 17,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 39,
+      "quantity": 1
+    },
+    {
+      "id": 48,
+      "title": "Giày MLB Bigball Chunky Lite Cream Black",
+      "description": "MLB là thương hiệu thuộc Max Mara, tập đoàn thời trang hàng đầu thế giới của Ý với các sản phẩm trang phục dành riêng cho nữ giới. Các bộ sưu tập của MLB đều sở hữu những phong cách đa dạng và độc đáo, đậm chất thủ công gia truyền lâu đời của người Ý.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202107/a035b1fab93a75e6c68565f120c3165f.jpg",
+      "originalPrice": 1750000,
+      "salePrice": 1400000,
+      "isPromotion": false,
+      "promotionPercent": 20,
+      "isFreeShip": false,
+      "rating": {
+        "rate": 4.3,
+        "count": 14
+      },
+      "color": "trắng",
+      "size": 38,
+      "quantity": 1
+    },
+    {
+      "id": 49,
+      "title": "Giày MLB Bigball Chunky Lite Grey",
+      "description": "Thiết kế MLB Bigball đậm chất thủ công gia truyền lâu đời của người Ý, nhưng vẫn pha trộn chút hài hòa về trong phong cách và đường nét, thương hiệu này hướng tới những quý cô yêu thích những trải nghiệm mới lạ cùng với thời trang.",
+      "category": 5,
+      "image": "https://en.mlb-korea.com/web/product/big/202108/281615eadbbbccdf68745b6fa21e9605.jpg",
+      "originalPrice": 1300000,
+      "salePrice": 1040000,
+      "isPromotion": true,
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "rating": {
+        "rate": 4.3,
+        "count": 198
+      },
+      "color": "trắng",
+      "size": 37,
+      "quantity": 1
+    }
+  ]
+}

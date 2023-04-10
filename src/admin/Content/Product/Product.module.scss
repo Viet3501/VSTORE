@@ -1,0 +1,44 @@
+.container {
+    padding: 0;
+    margin: 0;
+}
+.heading {
+    background-color: rgba(100, 100, 100, 100);
+    padding: 10px 0;
+    h3 {
+        margin: 0 0 0 10px;
+        color: #fff;
+    }
+}
+
+.list-product {
+    max-height: 100vh;
+    overflow-y: scroll;
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    table,
+    td,
+    th {
+        border: 1px solid;
+        text-align: center;
+    }
+}
+.table-product {
+    img {
+        width: 100px;
+        height: 100px;
+    }
+}
+.image{
+    width: 100px;
+}
+.title{
+    width: 300px;
+}
+.description {
+    max-width: 400px;
+    // white-space: nowrap;
+    // overflow: hidden;
+}

@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+}
+
+.inner{
+    color: #000;
+    max-width: 1800px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 20px;
+
+
+}
+
+
+.product{
+    flex: 5;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+}
